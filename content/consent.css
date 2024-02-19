@@ -1,0 +1,480 @@
+/* CSS to override current and for responsive behaviour. mobile first approach*/
+
+#preferencesWarning{
+    display: none;
+}
+.clear-both {
+    clear: both;
+}
+#o2-page-wrapper .consent-outer-container .header-xxl-diag.module-body {
+    width: 95%;
+    float: left;
+    background: url(//static.o2.co.uk/shared/img/modules/header-xxl-diagonal-small.png) no-repeat scroll right 0;
+    display: block;
+    height: 60px;
+    margin: 0;
+}
+.otac-section #leftColumn {
+    width: 100%;
+}
+body.accounts-wizard .step-wrapper .main-column .column-inner .otac-copy {
+    font-size: 23px;
+    line-height: 26px;
+    padding: 0;
+    border: 0;
+}
+body.accounts-wizard .step-wrapper .main-column .column-inner .otac-copy strong {
+    font-weight: 100;
+}
+.otac-inner-container {
+    padding-bottom: 10px;
+}
+.confirm-test-shadow {
+    padding: 0px 0px 13px;
+    box-shadow: 0px 6px 14px #efefef;
+}
+body.accounts-wizard .step-wrapper .main-column .column-inner.otac-container-height {
+    margin-bottom: 20px;
+}
+body.accounts-wizard .step-wrapper .column-inner fieldset .otac-input-container {
+    margin: 24px 0 0;
+}
+
+input[type=checkbox]:focus {
+    outline: 1px #419eda dotted;
+    box-shadow: inset 0 1px 3px rgba(0,0,0,.06), 0 0 5px rgba(3,43,90,.2);
+}
+
+/* consent CSS*/
+
+#consent-container {
+    width: 100%;
+}
+#consent-container .policy-information {
+    width: 100%;
+}
+#consent-container .policy-information h2 {
+    font-size: 26px;
+    line-height: 30px;
+    border-bottom: 1px solid #efefef;
+    margin: 0;
+    padding: 0 0 10px 0;
+}
+#consent-container .policy-information .section-right,
+#consent-container .policy-information .section-left {
+    width: 100%;
+    float: left;
+}
+#consent-container .policy-information .section-right p,
+#consent-container .policy-information .section-left p {
+    text-align: justify;
+}
+#consent-container .policy-information video {
+    width: 100%;
+}
+#consent-container #permissions .permission-option {
+    float: left;
+    margin: 20px 0 0;
+}
+#consent-container #permissions .permission-option .column-right-permission {
+    display: none;
+}
+#consent-container #permissions .permission-option .option-align {
+    display: inline-block;
+}
+#consent-container #permissions .permission-option .option-check {
+    width: 0%;
+}
+#consent-container #permissions .permission-option .option-copy {
+    width: 70%;
+}
+#consent-container #permissions .permission-option .permission-option-style label input[type=checkbox],
+#consent-container .channel-preference fieldset input[type=checkbox] {
+    float: left;
+    width: 16px;
+    height: 16px;
+}
+#consent-container #permissions .permission-option .permission-option-style label input[type=checkbox] {
+    margin-top: 16px;
+}
+#consent-container .channel-preference fieldset input[type=checkbox] {
+    margin: 3px 0 0;
+}
+#consent-container #permissions .permission-option .permission-option-style label p {
+    margin-left: 35px;
+}
+#consent-container #permissions .permission-option h3,
+#consent-container .channel-preference h3 {
+    font-size: 18px;
+    margin: 15px 0 0;
+}
+#consent-container .channel-preference .grid-row {
+    margin-bottom:0;
+}
+.permission-option-style {
+    border-bottom: 1px solid #efefef;
+}
+body .msg-panel div.error {
+    margin: 0 0 20px;
+}
+body .msg-panel div.error p {
+    background-position: 0 center;
+    padding: 7px 0 5px 29px;
+    margin: 5px 15px;
+    background-size: 22px;
+}
+body .mobile-view {
+    display: block;
+}
+body .desktop-view {
+    display: none;
+}
+
+body #consent-container .infoPanel .section-right p {
+    padding: 1em 0 0;
+}
+body #consent-container .infoPanel #channelPreference label {
+    padding: 0 0 0 5px;
+}
+#consent-container .video-caption {
+    display: inline-block;
+    padding: 5px 4%;
+    background-color: #efefef;
+    width: 92%;
+    margin: -10px 0 0;
+    color: #032b5a;
+    font-family: Frutiger55, sans-serif;
+    font-size: 14px;
+}
+#consent-container .video {
+    width: 100%;
+}
+#consent-container .policy-information .section-left {
+    display: table;
+    width: auto;
+    position: relative;
+    width: 100%;
+}
+#consent-container #learnMoreDiv .modal-header .close {
+    color: #419eda;
+    font-size: 28px;
+    font-weight: 100;
+}
+/*agent CSS */
+
+#main-container {
+    width: 100%;
+    margin: 0 auto;
+    float: left;
+}
+#main-container #tabContainer {
+    padding: 0;
+}
+#main-container #tabContainer .tab {
+    width: 100%;
+    height: auto;
+}
+#main-container #tabContainer .tab-content {
+    width: 100%;
+}
+#main-container .tab-container {
+    width: 100%;
+    float: left;
+}
+#main-container .dpa-checked {
+    width: 100%;
+    float: left;
+}
+.permission-details {
+    float: left;
+    width: 100%
+}
+body.digital-id .infoPanel .dpa-checked p {
+    padding: 1em 0 0;
+}
+body #consent-container .infoPanel .section-right .lastpara {
+    padding: 1em 0;
+}
+body.digital-id .infoPanel .dpa-checked input[type="checkbox"] {
+    margin: 0.2em;
+}
+#main-container #tabContainer .tabs {
+    border-bottom: 0;
+}
+#main-container #tabContainer ul.tabs li:first-child {
+    margin: 0;
+}
+#main-container #tabContainer ul.tabs li:first-child a {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-left: 1px solid #d0d0d0;
+}
+#main-container #tabContainer ul.tabs li.active a:before {
+    content: ' ';
+    width: 0px;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #419eda;
+    display: inline-block;
+    position: absolute;
+    bottom: -10px;
+    left: 42%;
+}
+#main-container #tabContainer ul.tabs li:last-child a {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-right: 1px solid #d0d0d0;
+}
+#main-container #tabContainer .tabs li.active {
+    position: relative;
+    box-shadow: none;
+    background-image: none;
+    z-index: 5;
+}
+#main-container #tabContainer .tabs li {
+    width: 50%;
+    background-color: #fff;
+}
+#main-container #tabContainer .tabs li a {
+    background-color: #fff;
+    color: #032b5a !important;
+    border-bottom: 1px solid #d0d0d0;
+    display: inline-block;
+    width: 100%;
+    height: 20px !important;
+    padding: 10px 0;
+    text-align: center;
+}
+#main-container #tabContainer .tabs li.active a {
+    background: #419eda;
+    /* For browsers that do not support gradients */
+
+    background: -webkit-linear-gradient(top, #032b5a, #419eda);
+    /* For Safari 5.1 to 6.0 */
+
+    background: -o-linear-gradient(bottom, #032b5a, #419eda);
+    /* For Opera 11.1 to 12.0 */
+
+    background: -moz-linear-gradient(bottom, #032b5a, #419eda);
+    /* For Firefox 3.6 to 15 */
+
+    background: linear-gradient(to bottom, #032b5a, #419eda);
+    /* Standard syntax (must be last) */
+
+    color: #fff !important;
+}
+#main-container .infoPanel-width-container {
+    width: 100%
+}
+#main-container #useEmail,
+#main-container #useMobile {
+    width: 100%;
+}
+#main-container .tab-container .optimized-for-new-style .unvalidated,
+#main-container .tab-container .optimized-for-new-style .unvalidated em {
+    margin: 0;
+}
+#main-container .tab-container .optimized-for-new-style .unvalidated em {
+    background-size: 22px !important;
+    width: 32px;
+    height: 22px;
+}
+#main-container .tab-container .optimized-for-new-style .unvalidated p {
+    padding: 0;
+}
+#main-container .tab-container .optimized-for-new-style .unvalidated {
+    padding: 0 0 10px 0;
+}
+/* success message CSS*/
+
+body.accounts-wizard .step-wrapper .success-container {
+    width: 100%
+}
+body.accounts-wizard .step-wrapper .main-column .column-inner .success-message-style {
+    background-position: 8px center;
+    background-color: #efefef;
+    background-size: 22px;
+    padding: 0px 0 0 35px;
+    margin: 0;
+}
+body.accounts-wizard .step-wrapper .main-column .column-inner .success-message-style h3 {
+    font-size: 14px;
+    padding: 5px 0;
+    border-bottom: 0;
+}
+/* From 320px to 574px- Start here*/
+
+body.accounts-wizard .step-wrapper .main-column .column-inner .thank-you-message .rounded-button {
+    margin-top: 20px;
+}
+@media screen and (min-width: 320px) and (max-width: 574px) {}
+/* Ends here*/
+/* screen size up to 574px start here*/
+
+@media screen and (max-width: 574px) {}
+/*Ends here*/
+/* screen size above 575px start here*/
+
+#main-container .infoPanel-width-container #tabContainer .gap-before .input-and-validation {
+    margin:0;
+}
+body.accounts-wizard .step-wrapper .main-column .column-inner .thank-you-message .custom-success-message {
+    padding: 20px 0 0;
+}
+@media screen and (min-width: 575px) {
+    #o2-page-wrapper .consent-outer-container .header-xxl-diag {
+        min-width: 575px;
+        max-width: 815px;
+        margin: 0 auto;
+        background-image: url(//static.o2.co.uk/www/img/general/header-xxl-bubbles.jpg);
+        background-position: 55% top;
+        background-repeat: no-repeat;
+        background-size: auto auto;
+        height: 110px;
+    }
+    #o2-page-wrapper .consent-outer-container .header-xxl-diag .module-body {
+        background-image: url(/upgrade/static/newShopStatic/_assets/img/headers/header-xxl-diagonal.png);
+    }
+    #o2-page-wrapper .consent-outer-container .header-xxl-diag .module-body {
+        background-position: 100% 0px;
+        background-image: url(//static.o2.co.uk/shared/img/modules/header-xxl-diagonal.png);
+        width: 53%;
+        height: 110px;
+    }
+    #o2-page-wrapper .consent-outer-container .header-xxl-diag .module-body .module-body-content {
+        padding: 20px 130px 20px 20px;
+    }
+    #consent-container #permissions .permission-option .column-right-permission {
+        display: inline-block;
+        width: 49%;
+        float: left;
+        margin: 0 1% 0 0;
+    }
+    #consent-container #permissions .permission-option .column-right-permission img {
+        width: 100%;
+    }
+    #consent-container #permissions .permission-option .column-left-permission {
+        width: 49%;
+        float: left;
+        margin: 0 0 0 1%;
+    }
+    .permission-option-style {
+        border-bottom: 0;
+    }
+    #consent-container #permissions .permission-option .column-left-permission h3 {
+        margin: 0;
+    }
+    .permission-details {
+        margin: 0 0 2%;
+    }
+    body .save-button input[type=submit] {
+        width: 180px;
+    }
+    body.accounts-wizard .step-wrapper .main-column .column-inner .thank-you-message .rounded-button {
+        width: auto;
+    }
+    .channel-preference {
+        border-top: 1px solid #efefef;
+        width: 100%;
+    }
+    body .mobile-view {
+        display: none;
+    }
+    body .desktop-view {
+        display: block;
+    }
+    body #main-container .tab-container .input-and-validation #msisdn,
+    body #main-container .tab-container .input-and-validation #username {
+        width: 50%;
+    }
+}
+/*Ends here*/
+/* From 575px to 814px - Start here*/
+
+@media screen and (min-width: 575px) and (max-width: 814px) {
+    body.digital-id .section-wrap .otac-container-height #redeemOTAC input.otac-input {
+        width: 140px;
+    }
+    body.digital-id input.otac-continue-button {
+        width: 150px;
+    }
+    #main-container .infoPanel-width-container {
+        width: 75%
+    }
+}
+/*Ends here*/
+/* screen size above 815px start here*/
+
+@media screen and (min-width: 815px) {
+    #o2-page-wrapper .consent-outer-container {
+        background: url(//static.o2.co.uk/www/img/general/header-xxl-grad-1px-repeat.jpg) repeat-x 0 0 !important;
+        height: 130px;
+    }
+    #o2-page-wrapper .consent-outer-container .header-xxl-diag {
+        min-width: 1100px;
+        max-width: 2000px;
+        margin: 0 auto;
+        background-image: url(https://static.o2.co.uk/www/img/general/header-xxl-bubbles.jpg);
+        background-position: top center;
+        background-repeat: no-repeat;
+        background-size: auto;
+        height: 130px;
+    }
+    #o2-page-wrapper .consent-outer-container .header-xxl-diag .module-body {
+        background-position: 100% 0;
+        background-image: url(//static.o2.co.uk/shared/img/modules/header-xxl-diagonal.png);
+        width: 53%;
+        height: 130px;
+    }
+    #o2-page-wrapper .consent-outer-container .header-xxl-diag .module-body .module-body-content {
+        padding: 30px 0 0 30px;
+    }
+    body.accounts-wizard .step-wrapper .main-column .column-inner .otac-copy {
+        line-height: 23px;
+    }
+    body.accounts-wizard .step-wrapper .column-inner fieldset .otac-input-container {
+        margin: 30px 0 0;
+    }
+    body.accounts-wizard .step-wrapper .otac-section .column-inner .otac-input {
+        width: 250px;
+    }
+    body.digital-id input.otac-continue-button {
+        width: 150px;
+    }
+    /* consent CSS*/
+
+    #consent-container .policy-information h2 {
+        font-size: 28px;
+        line-height: 32px;
+    }
+    body.accounts-wizard .step-wrapper .main-column .column-inner .thank-you-message {
+        width: 60%;
+    }
+    #main-container .infoPanel-width-container {
+        width: 62%
+    }
+    #main-container #useEmail,
+    #main-container #useMobile {
+        width: 100%;
+    }
+    #consent-container .policy-information .section-right {
+        width: 62%;
+        margin: 0 1% 0 0;
+    }
+    #consent-container .policy-information .section-left {
+        width: 36%;
+        margin: 0 0 0 1%;
+    }
+    #consent-container #permissions .permission-option .column-right-permission {
+        display: inline-block;
+        width: 29%;
+    }
+    #consent-container #permissions .permission-option .column-left-permission {
+        width: 31%;
+    }
+    .channel-preference {
+        border-top: 1px solid #efefef;
+        width: 62%;
+    }
+}
+/*Ends here*/

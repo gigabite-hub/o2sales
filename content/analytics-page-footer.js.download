@@ -1,0 +1,20 @@
+
+var buildDigitalDataForAdobe = function(){
+
+    var pageKey = location.pathname.replace("/accounts", "");
+
+    var pageName = pageMap[pageKey];
+
+    if (!pageName) {
+        pageName = "unknown";
+        console.warn("No Adobe page name mapping found for " + pageKey);
+    }
+
+    setDigitalDataForAdobe(pageName);
+}
+
+jQuery(function () {
+    if(digitalData.page == null){
+        buildDigitalDataForAdobe();
+    }
+});

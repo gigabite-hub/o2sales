@@ -1,0 +1,2314 @@
+@font-face {
+  font-family: 'o2-icon-font';
+  src:  url('/sites/default/files/fonticon/o2-icon-font/fonts/o2-icon-font.eot?2c82ok');
+  src:  url('/sites/default/files/fonticon/o2-icon-font/fonts/o2-icon-font.eot?2c82ok#iefix') format('embedded-opentype'),
+    url('/sites/default/files/fonticon/o2-icon-font/fonts/o2-icon-font.ttf?2c82ok') format('truetype'),
+    url('/sites/default/files/fonticon/o2-icon-font/fonts/o2-icon-font.woff?2c82ok') format('woff'),
+    url('/sites/default/files/fonticon/o2-icon-font/fonts/o2-icon-font.svg?2c82ok#o2-icon-font') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.ico {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'o2-icon-font' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.o2-ico-3d-view-2021:before {
+  content: "\ea3b";
+  color: #0019a5;
+}
+.o2-ico-4g-2021:before {
+  content: "\ea3c";
+  color: #0019a5;
+}
+.o2-ico-5g-2021:before {
+  content: "\ea3d";
+  color: #0019a5;
+}
+.o2-ico-accessories-2021:before {
+  content: "\ea3e";
+  color: #0019a5;
+}
+.o2-ico-add-2021:before {
+  content: "\ea3f";
+  color: #0019a5;
+}
+.o2-ico-add-caller-2021:before {
+  content: "\ea40";
+  color: #0019a5;
+}
+.o2-ico-add-on-to-bill-2021:before {
+  content: "\ea41";
+  color: #0019a5;
+}
+.o2-ico-airplane-2021:before {
+  content: "\ea42";
+  color: #0019a5;
+}
+.o2-ico-airtime-2021:before {
+  content: "\ea43";
+  color: #0019a5;
+}
+.o2-ico-alarm-2021:before {
+  content: "\ea44";
+  color: #0019a5;
+}
+.o2-ico-api-2021:before {
+  content: "\ea45";
+  color: #0019a5;
+}
+.o2-ico-apps-2021:before {
+  content: "\ea46";
+  color: #0019a5;
+}
+.o2-ico-Arrow-Bottom-Left-2021:before {
+  content: "\ea47";
+  color: #0019a5;
+}
+.o2-ico-Arrow-Bottom-Right-2021:before {
+  content: "\ea48";
+  color: #0019a5;
+}
+.o2-ico-Arrow-Double-1-2021:before {
+  content: "\ea49";
+  color: #0019a5;
+}
+.o2-ico-Arrow-Double-2-2021:before {
+  content: "\ea4a";
+  color: #0019a5;
+}
+.o2-ico-Arrow-Double-3-2021:before {
+  content: "\ea4b";
+  color: #0019a5;
+}
+.o2-ico-Arrow-Down-2021:before {
+  content: "\ea4c";
+  color: #0019a5;
+}
+.o2-ico-Arrow-Left-2021:before {
+  content: "\ea4d";
+  color: #0019a5;
+}
+.o2-ico-Arrow-Right-2021:before {
+  content: "\ea4e";
+  color: #0019a5;
+}
+.o2-ico-Arrow-Up-2021:before {
+  content: "\ea4f";
+  color: #0019a5;
+}
+.o2-ico-assessment-2021:before {
+  content: "\ea50";
+  color: #0019a5;
+}
+.o2-ico-attachment-2021:before {
+  content: "\ea51";
+  color: #0019a5;
+}
+.o2-ico-award-winning-business-network-2021:before {
+  content: "\ea52";
+  color: #0019a5;
+}
+.o2-ico-bag-2021:before {
+  content: "\ea53";
+  color: #0019a5;
+}
+.o2-ico-battery-charged-2021:before {
+  content: "\ea54";
+  color: #0019a5;
+}
+.o2-ico-benefit-2021:before {
+  content: "\ea55";
+  color: #0019a5;
+}
+.o2-ico-bill-2021:before {
+  content: "\ea56";
+  color: #0019a5;
+}
+.o2-ico-bill-queries-2021:before {
+  content: "\ea57";
+  color: #0019a5;
+}
+.o2-ico-bolt-ons-2021:before {
+  content: "\ea58";
+  color: #0019a5;
+}
+.o2-ico-boost-2021:before {
+  content: "\ea59";
+  color: #0019a5;
+}
+.o2-ico-business-2021:before {
+  content: "\ea5a";
+  color: #0019a5;
+}
+.o2-ico-business-apps-2021:before {
+  content: "\ea5b";
+  color: #0019a5;
+}
+.o2-ico-business-plan-2021:before {
+  content: "\ea5c";
+  color: #0019a5;
+}
+.o2-ico-calendar-2021:before {
+  content: "\ea5d";
+  color: #0019a5;
+}
+.o2-ico-call-centre-operator-2021:before {
+  content: "\ea5e";
+  color: #0019a5;
+}
+.o2-ico-callback-2021:before {
+  content: "\ea5f";
+  color: #0019a5;
+}
+.o2-ico-calls-2021:before {
+  content: "\ea60";
+  color: #0019a5;
+}
+.o2-ico-camera-2021:before {
+  content: "\ea61";
+  color: #0019a5;
+}
+.o2-ico-Cancel-2021:before {
+  content: "\ea62";
+  color: #0019a5;
+}
+.o2-ico-certificate-2021:before {
+  content: "\ea63";
+  color: #0019a5;
+}
+.o2-ico-charger-2021:before {
+  content: "\ea64";
+  color: #0019a5;
+}
+.o2-ico-chat-2021:before {
+  content: "\ea65";
+  color: #0019a5;
+}
+.o2-ico-checkout-2021:before {
+  content: "\ea66";
+  color: #0019a5;
+}
+.o2-ico-circuits-2021:before {
+  content: "\ea67";
+  color: #0019a5;
+}
+.o2-ico-cleaning-2021:before {
+  content: "\ea68";
+  color: #0019a5;
+}
+.o2-ico-click-and-collect-2021:before {
+  content: "\ea69";
+  color: #0019a5;
+}
+.o2-ico-clock-2021:before {
+  content: "\ea6a";
+  color: #0019a5;
+}
+.o2-ico-cloud-friends-2021:before {
+  content: "\ea6b";
+  color: #0019a5;
+}
+.o2-ico-cocktail-2021:before {
+  content: "\ea6c";
+  color: #0019a5;
+}
+.o2-ico-comment-2021:before {
+  content: "\ea6d";
+  color: #0019a5;
+}
+.o2-ico-computer-2021:before {
+  content: "\ea6e";
+  color: #0019a5;
+}
+.o2-ico-conference-call-2021:before {
+  content: "\ea6f";
+  color: #0019a5;
+}
+.o2-ico-contact-us-2021:before {
+  content: "\ea70";
+  color: #0019a5;
+}
+.o2-ico-contactless-payments-2021:before {
+  content: "\ea71";
+  color: #0019a5;
+}
+.o2-ico-credit-balance-2021:before {
+  content: "\ea72";
+  color: #0019a5;
+}
+.o2-ico-credit-card-2021:before {
+  content: "\ea73";
+  color: #0019a5;
+}
+.o2-ico-cross-2021:before {
+  content: "\ea74";
+  color: #0019a5;
+}
+.o2-ico-custom-plans-2021:before {
+  content: "\ea75";
+  color: #0019a5;
+}
+.o2-ico-cyber-security-2021:before {
+  content: "\ea76";
+  color: #0019a5;
+}
+.o2-ico-data-2021:before {
+  content: "\ea77";
+  color: #0019a5;
+}
+.o2-ico-data-bonus-2021:before {
+  content: "\ea78";
+  color: #0019a5;
+}
+.o2-ico-data-centre-2021:before {
+  content: "\ea79";
+  color: #0019a5;
+}
+.o2-ico-data-rollover-2021:before {
+  content: "\ea7a";
+  color: #0019a5;
+}
+.o2-ico-delete-2021:before {
+  content: "\ea7b";
+  color: #0019a5;
+}
+.o2-ico-delivery-2021:before {
+  content: "\ea7c";
+  color: #0019a5;
+}
+.o2-ico-device-2021:before {
+  content: "\ea7d";
+  color: #0019a5;
+}
+.o2-ico-devices-2021:before {
+  content: "\ea7e";
+  color: #0019a5;
+}
+.o2-ico-digital-box-2021:before {
+  content: "\ea7f";
+  color: #0019a5;
+}
+.o2-ico-digital-services-2021:before {
+  content: "\ea80";
+  color: #0019a5;
+}
+.o2-ico-disabled-2021:before {
+  content: "\ea81";
+  color: #0019a5;
+}
+.o2-ico-discount-2021:before {
+  content: "\ea82";
+  color: #0019a5;
+}
+.o2-ico-disturb-2021:before {
+  content: "\ea83";
+  color: #0019a5;
+}
+.o2-ico-document-2021:before {
+  content: "\ea84";
+  color: #0019a5;
+}
+.o2-ico-download-2021:before {
+  content: "\ea85";
+  color: #0019a5;
+}
+.o2-ico-e-shop-2021:before {
+  content: "\ea86";
+  color: #0019a5;
+}
+.o2-ico-edit-2021:before {
+  content: "\ea87";
+  color: #0019a5;
+}
+.o2-ico-email-2021:before {
+  content: "\ea88";
+  color: #0019a5;
+}
+.o2-ico-envelope-2021:before {
+  content: "\ea89";
+  color: #0019a5;
+}
+.o2-ico-escalator-2021:before {
+  content: "\ea8a";
+  color: #0019a5;
+}
+.o2-ico-esim-2021:before {
+  content: "\ea8b";
+  color: #0019a5;
+}
+.o2-ico-exclamation-mark-2021:before {
+  content: "\ea8c";
+  color: #0019a5;
+}
+.o2-ico-fair-deal-2021:before {
+  content: "\ea8d";
+  color: #0019a5;
+}
+.o2-ico-family-2021:before {
+  content: "\ea8e";
+  color: #0019a5;
+}
+.o2-ico-family-on-same-plan-2021:before {
+  content: "\ea8f";
+  color: #0019a5;
+}
+.o2-ico-faq-2021:before {
+  content: "\ea90";
+  color: #0019a5;
+}
+.o2-ico-fast-forward-2021:before {
+  content: "\ea91";
+  color: #0019a5;
+}
+.o2-ico-favourite-2021:before {
+  content: "\ea92";
+  color: #0019a5;
+}
+.o2-ico-female-2021:before {
+  content: "\ea93";
+  color: #0019a5;
+}
+.o2-ico-fiber-network-2021:before {
+  content: "\ea94";
+  color: #0019a5;
+}
+.o2-ico-fiber-quality-2021:before {
+  content: "\ea95";
+  color: #0019a5;
+}
+.o2-ico-file-2021:before {
+  content: "\ea96";
+  color: #0019a5;
+}
+.o2-ico-filter-2021:before {
+  content: "\ea97";
+  color: #0019a5;
+}
+.o2-ico-final-price-2021:before {
+  content: "\ea98";
+  color: #0019a5;
+}
+.o2-ico-find-a-store-2021:before {
+  content: "\ea99";
+  color: #0019a5;
+}
+.o2-ico-firewall-2021:before {
+  content: "\ea9a";
+  color: #0019a5;
+}
+.o2-ico-fix-internet-connection-2021:before {
+  content: "\ea9b";
+  color: #0019a5;
+}
+.o2-ico-fixed-internet-2021:before {
+  content: "\ea9c";
+  color: #0019a5;
+}
+.o2-ico-food-2021:before {
+  content: "\ea9d";
+  color: #0019a5;
+}
+.o2-ico-football-2021:before {
+  content: "\ea9e";
+  color: #0019a5;
+}
+.o2-ico-friends-customers-people-2021:before {
+  content: "\ea9f";
+  color: #0019a5;
+}
+.o2-ico-gift-2021:before {
+  content: "\eaa0";
+  color: #0019a5;
+}
+.o2-ico-greater-flexibility-2021:before {
+  content: "\eaa1";
+  color: #0019a5;
+}
+.o2-ico-green-2021:before {
+  content: "\eaa2";
+  color: #0019a5;
+}
+.o2-ico-guarantee-2021:before {
+  content: "\eaa3";
+  color: #0019a5;
+}
+.o2-ico-guru-2021:before {
+  content: "\eaa4";
+  color: #0019a5;
+}
+.o2-ico-hands-free-2021:before {
+  content: "\eaa5";
+  color: #0019a5;
+}
+.o2-ico-handset-insurance-2021:before {
+  content: "\eaa6";
+  color: #0019a5;
+}
+.o2-ico-hd-option-2021:before {
+  content: "\eaa7";
+  color: #0019a5;
+}
+.o2-ico-headphone-bluetooth-2021:before {
+  content: "\eaa8";
+  color: #0019a5;
+}
+.o2-ico-headphones-2021:before {
+  content: "\eaa9";
+  color: #0019a5;
+}
+.o2-ico-help-2021:before {
+  content: "\eaaa";
+  color: #0019a5;
+}
+.o2-ico-hide-2021:before {
+  content: "\eaab";
+  color: #0019a5;
+}
+.o2-ico-hockey-2021:before {
+  content: "\eaac";
+  color: #0019a5;
+}
+.o2-ico-home-alternative-2021:before {
+  content: "\eaad";
+  color: #0019a5;
+}
+.o2-ico-homespot-2021:before {
+  content: "\eaae";
+  color: #0019a5;
+}
+.o2-ico-hotline-2021:before {
+  content: "\eaaf";
+  color: #0019a5;
+}
+.o2-ico-hotspot-2021:before {
+  content: "\eab0";
+  color: #0019a5;
+}
+.o2-ico-idea-2021:before {
+  content: "\eab1";
+  color: #0019a5;
+}
+.o2-ico-in-store-2021:before {
+  content: "\eab2";
+  color: #0019a5;
+}
+.o2-ico-information-roundel-2021:before {
+  content: "\eab3";
+  color: #0019a5;
+}
+.o2-ico-insurance-2021:before {
+  content: "\eab4";
+  color: #0019a5;
+}
+.o2-ico-internet-2021:before {
+  content: "\eab5";
+  color: #0019a5;
+}
+.o2-ico-internet-of-things-2021:before {
+  content: "\eab6";
+  color: #0019a5;
+}
+.o2-ico-invoice-2021:before {
+  content: "\eab7";
+  color: #0019a5;
+}
+.o2-ico-iot-sensor-co2-2021:before {
+  content: "\eab8";
+  color: #0019a5;
+}
+.o2-ico-iot-sensor-health-2021:before {
+  content: "\eab9";
+  color: #0019a5;
+}
+.o2-ico-iot-sensor-humidity-2021:before {
+  content: "\eaba";
+  color: #0019a5;
+}
+.o2-ico-iot-sensor-temperature-2021:before {
+  content: "\eabb";
+  color: #0019a5;
+}
+.o2-ico-iot-sensor-water-2021:before {
+  content: "\eabc";
+  color: #0019a5;
+}
+.o2-ico-keep-it-simple-2021:before {
+  content: "\eabd";
+  color: #0019a5;
+}
+.o2-ico-keyboard-2021:before {
+  content: "\eabe";
+  color: #0019a5;
+}
+.o2-ico-landline-2021:before {
+  content: "\eabf";
+  color: #0019a5;
+}
+.o2-ico-laptop-2021:before {
+  content: "\eac0";
+  color: #0019a5;
+}
+.o2-ico-legal-2021:before {
+  content: "\eac1";
+  color: #0019a5;
+}
+.o2-ico-lidar-2021:before {
+  content: "\eac2";
+  color: #0019a5;
+}
+.o2-ico-lifts-2021:before {
+  content: "\eac3";
+  color: #0019a5;
+}
+.o2-ico-list-2021:before {
+  content: "\eac4";
+  color: #0019a5;
+}
+.o2-ico-loading-2021:before {
+  content: "\eac5";
+  color: #0019a5;
+}
+.o2-ico-locked-2021:before {
+  content: "\eac6";
+  color: #0019a5;
+}
+.o2-ico-login-2021:before {
+  content: "\eac7";
+  color: #0019a5;
+}
+.o2-ico-lost-found-2021:before {
+  content: "\eac8";
+  color: #0019a5;
+}
+.o2-ico-male-2021:before {
+  content: "\eac9";
+  color: #0019a5;
+}
+.o2-ico-managed-lan-2021:before {
+  content: "\eaca";
+  color: #0019a5;
+}
+.o2-ico-managed-wireless-lan-2021:before {
+  content: "\eacb";
+  color: #0019a5;
+}
+.o2-ico-map-2021:before {
+  content: "\eacc";
+  color: #0019a5;
+}
+.o2-ico-mask-2021:before {
+  content: "\eacd";
+  color: #0019a5;
+}
+.o2-ico-mast-2021:before {
+  content: "\eace";
+  color: #0019a5;
+}
+.o2-ico-microphone-2021:before {
+  content: "\eacf";
+  color: #0019a5;
+}
+.o2-ico-mobile-coverage-2021:before {
+  content: "\ead0";
+  color: #0019a5;
+}
+.o2-ico-multi-sim-2021:before {
+  content: "\ead1";
+  color: #0019a5;
+}
+.o2-ico-multisave-2021:before {
+  content: "\ead2";
+  color: #0019a5;
+}
+.o2-ico-music-2021:before {
+  content: "\ead3";
+  color: #0019a5;
+}
+.o2-ico-mute-2021:before {
+  content: "\ead4";
+  color: #0019a5;
+}
+.o2-ico-my-o2-app-2021:before {
+  content: "\ead5";
+  color: #0019a5;
+}
+.o2-ico-network-status-2021:before {
+  content: "\ead6";
+  color: #0019a5;
+}
+.o2-ico-networking-2021:before {
+  content: "\ead7";
+  color: #0019a5;
+}
+.o2-ico-new-2021:before {
+  content: "\ead8";
+  color: #0019a5;
+}
+.o2-ico-newsletter-2021:before {
+  content: "\ead9";
+  color: #0019a5;
+}
+.o2-ico-Next-2021:before {
+  content: "\eada";
+  color: #0019a5;
+}
+.o2-ico-No-Hidden-Bills-2021:before {
+  content: "\eadb";
+  color: #0019a5;
+}
+.o2-ico-notification-2021:before {
+  content: "\eadc";
+  color: #0019a5;
+}
+.o2-ico-o2-angels-2021:before {
+  content: "\eadd";
+  color: #0019a5;
+}
+.o2-ico-offers--2021:before {
+  content: "\eade";
+  color: #0019a5;
+}
+.o2-ico-offers-2021:before {
+  content: "\eadf";
+  color: #0019a5;
+}
+.o2-ico-office-large-2021:before {
+  content: "\eae0";
+  color: #0019a5;
+}
+.o2-ico-office-small-2021:before {
+  content: "\eae1";
+  color: #0019a5;
+}
+.o2-ico-package-2021:before {
+  content: "\eae2";
+  color: #0019a5;
+}
+.o2-ico-parking-2021:before {
+  content: "\eae3";
+  color: #0019a5;
+}
+.o2-ico-pause-2021:before {
+  content: "\eae4";
+  color: #0019a5;
+}
+.o2-ico-Pay-as-You-Go-2021:before {
+  content: "\eae5";
+  color: #0019a5;
+}
+.o2-ico-Pay-Monthly-2021:before {
+  content: "\eae6";
+  color: #0019a5;
+}
+.o2-ico-payment-2021:before {
+  content: "\eae7";
+  color: #0019a5;
+}
+.o2-ico-pen-test-2021:before {
+  content: "\eae8";
+  color: #0019a5;
+}
+.o2-ico-person-2021:before {
+  content: "\eae9";
+  color: #0019a5;
+}
+.o2-ico-pin-2021:before {
+  content: "\eaea";
+  color: #0019a5;
+}
+.o2-ico-plan-report1-2021:before {
+  content: "\eaeb";
+  color: #0019a5;
+}
+.o2-ico-plan-report2-2021:before {
+  content: "\eaec";
+  color: #0019a5;
+}
+.o2-ico-plastic-sim-2021:before {
+  content: "\eaed";
+  color: #0019a5;
+}
+.o2-ico-play-2021:before {
+  content: "\eaee";
+  color: #0019a5;
+}
+.o2-ico-play-roundel-2021:before {
+  content: "\eaef";
+  color: #0019a5;
+}
+.o2-ico-portal-2021:before {
+  content: "\eaf0";
+  color: #0019a5;
+}
+.o2-ico-position-2021:before {
+  content: "\eaf1";
+  color: #0019a5;
+}
+.o2-ico-power-2021:before {
+  content: "\eaf2";
+  color: #0019a5;
+}
+.o2-ico-pre-order-2021:before {
+  content: "\eaf3";
+  color: #0019a5;
+}
+.o2-ico-printer-2021:before {
+  content: "\eaf4";
+  color: #0019a5;
+}
+.o2-ico-priority-2021:before {
+  content: "\eaf5";
+  color: #0019a5;
+}
+.o2-ico-priority-tickets-2021:before {
+  content: "\eaf6";
+  color: #0019a5;
+}
+.o2-ico-radius-server-2021:before {
+  content: "\eaf7";
+  color: #0019a5;
+}
+.o2-ico-recording-2021:before {
+  content: "\eaf8";
+  color: #0019a5;
+}
+.o2-ico-recycle-2021:before {
+  content: "\eaf9";
+  color: #0019a5;
+}
+.o2-ico-refresh-2021:before {
+  content: "\eafa";
+  color: #0019a5;
+}
+.o2-ico-refurb-2021:before {
+  content: "\eafb";
+  color: #0019a5;
+}
+.o2-ico-rewards-2021:before {
+  content: "\eafc";
+  color: #0019a5;
+}
+.o2-ico-rewind-2021:before {
+  content: "\eafd";
+  color: #0019a5;
+}
+.o2-ico-roaming-2021:before {
+  content: "\eafe";
+  color: #0019a5;
+}
+.o2-ico-robotics-2021:before {
+  content: "\eaff";
+  color: #0019a5;
+}
+.o2-ico-router-2021:before {
+  content: "\eb00";
+  color: #0019a5;
+}
+.o2-ico-search-2021:before {
+  content: "\eb01";
+  color: #0019a5;
+}
+.o2-ico-send-2021:before {
+  content: "\eb02";
+  color: #0019a5;
+}
+.o2-ico-Send-Money-2021:before {
+  content: "\eb03";
+  color: #0019a5;
+}
+.o2-ico-server-2021:before {
+  content: "\eb04";
+  color: #0019a5;
+}
+.o2-ico-service-2021:before {
+  content: "\eb05";
+  color: #0019a5;
+}
+.o2-ico-settings-2021:before {
+  content: "\eb06";
+  color: #0019a5;
+}
+.o2-ico-share-data-2021:before {
+  content: "\eb07";
+  color: #0019a5;
+}
+.o2-ico-sign-out-2021:before {
+  content: "\eb08";
+  color: #0019a5;
+}
+.o2-ico-sms-2021:before {
+  content: "\eb09";
+  color: #0019a5;
+}
+.o2-ico-Special-Rate-2021:before {
+  content: "\eb0a";
+  color: #0019a5;
+}
+.o2-ico-speed-2021:before {
+  content: "\eb0b";
+  color: #0019a5;
+}
+.o2-ico-sport-2021:before {
+  content: "\eb0c";
+  color: #0019a5;
+}
+.o2-ico-star-2021:before {
+  content: "\eb0d";
+  color: #0019a5;
+}
+.o2-ico-streaming-vod-2021:before {
+  content: "\eb0e";
+  color: #0019a5;
+}
+.o2-ico-subscription-2021:before {
+  content: "\eb0f";
+  color: #0019a5;
+}
+.o2-ico-subtitles-2021:before {
+  content: "\eb10";
+  color: #0019a5;
+}
+.o2-ico-success-2021:before {
+  content: "\eb11";
+  color: #0019a5;
+}
+.o2-ico-switch-2021:before {
+  content: "\eb12";
+  color: #0019a5;
+}
+.o2-ico-tablet-2021:before {
+  content: "\eb13";
+  color: #0019a5;
+}
+.o2-ico-talk-to-person-2021:before {
+  content: "\eb14";
+  color: #0019a5;
+}
+.o2-ico-target-2021:before {
+  content: "\eb15";
+  color: #0019a5;
+}
+.o2-ico-tariff-2021:before {
+  content: "\eb16";
+  color: #0019a5;
+}
+.o2-ico-teamwork-2021:before {
+  content: "\eb17";
+  color: #0019a5;
+}
+.o2-ico-telephone-ip-2021:before {
+  content: "\eb18";
+  color: #0019a5;
+}
+.o2-ico-telephone-pot-2021:before {
+  content: "\eb19";
+  color: #0019a5;
+}
+.o2-ico-thermometer-2021:before {
+  content: "\eb1a";
+  color: #0019a5;
+}
+.o2-ico-tick-2021:before {
+  content: "\eb1b";
+  color: #0019a5;
+}
+.o2-ico-tips-and-tricks-2021:before {
+  content: "\eb1c";
+  color: #0019a5;
+}
+.o2-ico-top-up-2021:before {
+  content: "\eb1d";
+  color: #0019a5;
+}
+.o2-ico-track-my-order-2021:before {
+  content: "\eb1e";
+  color: #0019a5;
+}
+.o2-ico-triple-offer-2021:before {
+  content: "\eb1f";
+  color: #0019a5;
+}
+.o2-ico-trusted-2021:before {
+  content: "\eb20";
+  color: #0019a5;
+}
+.o2-ico-tube-2021:before {
+  content: "\eb21";
+  color: #0019a5;
+}
+.o2-ico-tv-2021:before {
+  content: "\eb22";
+  color: #0019a5;
+}
+.o2-ico-undo-2021:before {
+  content: "\eb23";
+  color: #0019a5;
+}
+.o2-ico-unlimited-calls-and-sms-2021:before {
+  content: "\eb24";
+  color: #0019a5;
+}
+.o2-ico-unlimited-internet-2021:before {
+  content: "\eb25";
+  color: #0019a5;
+}
+.o2-ico-unlock-2021:before {
+  content: "\eb26";
+  color: #0019a5;
+}
+.o2-ico-unrivalled-service-2021:before {
+  content: "\eb27";
+  color: #0019a5;
+}
+.o2-ico-update-2021:before {
+  content: "\eb28";
+  color: #0019a5;
+}
+.o2-ico-upgrade-2021:before {
+  content: "\eb29";
+  color: #0019a5;
+}
+.o2-ico-usage-2021:before {
+  content: "\eb2a";
+  color: #0019a5;
+}
+.o2-ico-Video-Chat-2021:before {
+  content: "\eb2b";
+  color: #0019a5;
+}
+.o2-ico-Video-Chat-View-2021:before {
+  content: "\eb2c";
+  color: #0019a5;
+}
+.o2-ico-Video-Chat-View-Disabled-2021:before {
+  content: "\eb2d";
+  color: #0019a5;
+}
+.o2-ico-view-2021:before {
+  content: "\eb2e";
+  color: #0019a5;
+}
+.o2-ico-voicemail-2021:before {
+  content: "\eb2f";
+  color: #0019a5;
+}
+.o2-ico-volume-2021:before {
+  content: "\eb30";
+  color: #0019a5;
+}
+.o2-ico-Volume-Down-2021:before {
+  content: "\eb31";
+  color: #0019a5;
+}
+.o2-ico-Volume-Up-2021:before {
+  content: "\eb32";
+  color: #0019a5;
+}
+.o2-ico-wait-2021:before {
+  content: "\eb33";
+  color: #0019a5;
+}
+.o2-ico-wan-gateway-2021:before {
+  content: "\eb34";
+  color: #0019a5;
+}
+.o2-ico-wap-2021:before {
+  content: "\eb35";
+  color: #0019a5;
+}
+.o2-ico-warning-2021:before {
+  content: "\eb36";
+  color: #0019a5;
+}
+.o2-ico-watch-from-two-devices-2021:before {
+  content: "\eb37";
+  color: #0019a5;
+}
+.o2-ico-wifi-2021:before {
+  content: "\eb38";
+  color: #0019a5;
+}
+.o2-ico-workflows-2021:before {
+  content: "\eb39";
+  color: #0019a5;
+}
+.o2-ico-workshop-2021:before {
+  content: "\eb3a";
+  color: #0019a5;
+}
+.o2-ico-young-people-2021:before {
+  content: "\eb3b";
+  color: #0019a5;
+}
+.o2-ico-d-rotate-view:before {
+  content: "\e900";
+}
+.o2-ico-add-to-bill:before {
+  content: "\e901";
+  color: #032b5a;
+}
+.o2-ico-ask-for-location:before {
+  content: "\e902";
+  color: #032b5a;
+}
+.o2-ico-car-assistant:before {
+  content: "\e903";
+  color: #032b5a;
+}
+.o2-ico-car-battery:before {
+  content: "\e904";
+  color: #032b5a;
+}
+.o2-ico-car-coolant:before {
+  content: "\e905";
+  color: #032b5a;
+}
+.o2-ico-car-headlights-night:before {
+  content: "\e906";
+  color: #032b5a;
+}
+.o2-ico-car-key:before {
+  content: "\e907";
+  color: #032b5a;
+}
+.o2-ico-car-logbook:before {
+  content: "\e908";
+  color: #032b5a;
+}
+.o2-ico-chevron-left:before {
+  content: "\e909";
+  color: #032b5a;
+}
+.o2-ico-chevron-right:before {
+  content: "\e90a";
+  color: #032b5a;
+}
+.o2-ico-code-verification:before {
+  content: "\e90b";
+  color: #032b5a;
+}
+.o2-ico-data-pack:before {
+  content: "\e90c";
+  color: #032b5a;
+}
+.o2-ico-e-reader:before {
+  content: "\e90d";
+  color: #032b5a;
+}
+.o2-ico-fast-forward:before {
+  content: "\e90e";
+  color: #032b5a;
+}
+.o2-ico-fast-internet:before {
+  content: "\e90f";
+  color: #032b5a;
+}
+.o2-ico-home-box:before {
+  content: "\e910";
+  color: #032b5a;
+}
+.o2-ico-info-graphics:before {
+  content: "\e911";
+  color: #032b5a;
+}
+.o2-ico-inovation-ideas:before {
+  content: "\e912";
+  color: #032b5a;
+}
+.o2-ico-internet-of-things:before {
+  content: "\e913";
+  color: #032b5a;
+}
+.o2-ico-leadership-flag:before {
+  content: "\e914";
+  color: #032b5a;
+}
+.o2-ico-legal-scales:before {
+  content: "\e915";
+  color: #032b5a;
+}
+.o2-ico-line-arrow-down:before {
+  content: "\e916";
+  color: #032b5a;
+}
+.o2-ico-line-arrow-left:before {
+  content: "\e917";
+  color: #032b5a;
+}
+.o2-ico-line-arrow-right:before {
+  content: "\e918";
+  color: #032b5a;
+}
+.o2-ico-line-arrow-up:before {
+  content: "\e919";
+  color: #032b5a;
+}
+.o2-ico-m2m-vehicles:before {
+  content: "\e91a";
+  color: #032b5a;
+}
+.o2-ico-mainstage-microphone:before {
+  content: "\e91b";
+  color: #032b5a;
+}
+.o2-ico-mobile-payments:before {
+  content: "\e91c";
+  color: #032b5a;
+}
+.o2-ico-mobile-roaming:before {
+  content: "\e91d";
+  color: #032b5a;
+}
+.o2-ico-more:before {
+  content: "\e91e";
+  color: #032b5a;
+}
+.o2-ico-myo2:before {
+  content: "\e91f";
+  color: #032b5a;
+}
+.o2-ico-notification-alert:before {
+  content: "\e920";
+  color: #032b5a;
+}
+.o2-ico-o2-drive:before {
+  content: "\e921";
+  color: #032b5a;
+}
+.o2-ico-play:before {
+  content: "\e922";
+  color: #032b5a;
+}
+.o2-ico-pod-cast:before {
+  content: "\e923";
+  color: #032b5a;
+}
+.o2-ico-police:before {
+  content: "\e924";
+  color: #032b5a;
+}
+.o2-ico-process:before {
+  content: "\e925";
+  color: #032b5a;
+}
+.o2-ico-promotions:before {
+  content: "\e926";
+  color: #032b5a;
+}
+.o2-ico-puk-code:before {
+  content: "\e927";
+  color: #032b5a;
+}
+.o2-ico-push-notifications-bell:before {
+  content: "\e928";
+  color: #032b5a;
+}
+.o2-ico-quadband:before {
+  content: "\e929";
+  color: #032b5a;
+}
+.o2-ico-racing-flag:before {
+  content: "\e92a";
+  color: #032b5a;
+}
+.o2-ico-recommendations:before {
+  content: "\e92b";
+  color: #032b5a;
+}
+.o2-ico-regular-payments:before {
+  content: "\e92c";
+  color: #032b5a;
+}
+.o2-ico-remaining-extras:before {
+  content: "\e92d";
+  color: #032b5a;
+}
+.o2-ico-remaining-units:before {
+  content: "\e92e";
+  color: #032b5a;
+}
+.o2-ico-remove-bank-account:before {
+  content: "\e92f";
+  color: #032b5a;
+}
+.o2-ico-remove-contact:before {
+  content: "\e930";
+  color: #032b5a;
+}
+.o2-ico-remove-credit-card:before {
+  content: "\e931";
+  color: #032b5a;
+}
+.o2-ico-repeat:before {
+  content: "\e932";
+  color: #032b5a;
+}
+.o2-ico-report:before {
+  content: "\e933";
+  color: #032b5a;
+}
+.o2-ico-request-money-pounds:before {
+  content: "\e934";
+  color: #032b5a;
+}
+.o2-ico-restricated-area:before {
+  content: "\e935";
+  color: #032b5a;
+}
+.o2-ico-rewind:before {
+  content: "\e936";
+  color: #032b5a;
+}
+.o2-ico-river-taxi:before {
+  content: "\e937";
+  color: #032b5a;
+}
+.o2-ico-rotate-device:before {
+  content: "\e938";
+  color: #032b5a;
+}
+.o2-ico-screen-replacement:before {
+  content: "\e939";
+  color: #032b5a;
+}
+.o2-ico-security-anti-left-ok:before {
+  content: "\e93a";
+  color: #032b5a;
+}
+.o2-ico-top-up-credit:before {
+  content: "\e93b";
+  color: #032b5a;
+}
+.o2-ico-wearable-tech:before {
+  content: "\e93c";
+  color: #032b5a;
+}
+.o2-ico-weather-rain-shower:before {
+  content: "\e93d";
+  color: #032b5a;
+}
+.o2-ico-website-portal:before {
+  content: "\e93e";
+  color: #032b5a;
+}
+.o2-ico-zoom-in:before {
+  content: "\e93f";
+  color: #032b5a;
+}
+.o2-ico-zoom-out:before {
+  content: "\e940";
+  color: #032b5a;
+}
+.o2-ico-gb-micro-sim:before {
+  content: "\e941";
+  color: #032b5a;
+}
+.o2-ico-gb-nano-sim:before {
+  content: "\e942";
+  color: #032b5a;
+}
+.o2-ico-strikes-before-locking:before {
+  content: "\e943";
+  color: #032b5a;
+}
+.o2-ico-2-megapixel-camera:before {
+  content: "\e944";
+  color: #032b5a;
+}
+.o2-ico-4g-signal:before {
+  content: "\e945";
+  color: #032b5a;
+}
+.o2-ico-megapixel-camera:before {
+  content: "\e946";
+  color: #032b5a;
+}
+.o2-ico-4g-calling:before {
+  content: "\e947";
+  color: #032b5a;
+}
+.o2-ico-g-signal2:before {
+  content: "\e948";
+  color: #032b5a;
+}
+.o2-ico-alarm-clock:before {
+  content: "\e949";
+  color: #032b5a;
+}
+.o2-ico-alert:before {
+  content: "\e94a";
+  color: #032b5a;
+}
+.o2-ico-all-inclusive-package:before {
+  content: "\e94b";
+  color: #032b5a;
+}
+.o2-ico-api:before {
+  content: "\e94c";
+  color: #032b5a;
+}
+.o2-ico-app-finder:before {
+  content: "\e94d";
+  color: #032b5a;
+}
+.o2-ico-app-shop:before {
+  content: "\e94e";
+  color: #032b5a;
+}
+.o2-ico-arcade-action:before {
+  content: "\e94f";
+  color: #032b5a;
+}
+.o2-ico-arrow-down-left:before {
+  content: "\e950";
+  color: #032b5a;
+}
+.o2-ico-arrow-down:before {
+  content: "\e951";
+  color: #032b5a;
+}
+.o2-ico-arrow-right-241:before {
+  content: "\e952";
+  color: #032b5a;
+}
+.o2-ico-arrow-right-243:before {
+  content: "\e953";
+  color: #032b5a;
+}
+.o2-ico-arrow-up:before {
+  content: "\e954";
+  color: #032b5a;
+}
+.o2-ico-arrown-down-right:before {
+  content: "\e955";
+  color: #032b5a;
+}
+.o2-ico-ask-expert:before {
+  content: "\e956";
+  color: #032b5a;
+}
+.o2-ico-bacode-scanner:before {
+  content: "\e957";
+  color: #032b5a;
+}
+.o2-ico-balance-info:before {
+  content: "\e958";
+  color: #032b5a;
+}
+.o2-ico-basket-minus:before {
+  content: "\e959";
+  color: #032b5a;
+}
+.o2-ico-basket-plus:before {
+  content: "\e95a";
+  color: #032b5a;
+}
+.o2-ico-basket:before {
+  content: "\e95b";
+  color: #032b5a;
+}
+.o2-ico-battery:before {
+  content: "\e95c";
+  color: #032b5a;
+}
+.o2-ico-be-inspired:before {
+  content: "\e95d";
+  color: #032b5a;
+}
+.o2-ico-bill-queries:before {
+  content: "\e95e";
+  color: #032b5a;
+}
+.o2-ico-bill-settings:before {
+  content: "\e95f";
+  color: #032b5a;
+}
+.o2-ico-bill:before {
+  content: "\e960";
+  color: #032b5a;
+}
+.o2-ico-bluetooth:before {
+  content: "\e961";
+  color: #032b5a;
+}
+.o2-ico-boltons:before {
+  content: "\e962";
+  color: #032b5a;
+}
+.o2-ico-books:before {
+  content: "\e963";
+  color: #032b5a;
+}
+.o2-ico-breakdown-cover:before {
+  content: "\e964";
+  color: #032b5a;
+}
+.o2-ico-broadband:before {
+  content: "\e965";
+  color: #032b5a;
+}
+.o2-ico-business-ideas:before {
+  content: "\e966";
+  color: #032b5a;
+}
+.o2-ico-business-package-flexible:before {
+  content: "\e967";
+  color: #032b5a;
+}
+.o2-ico-business-plan:before {
+  content: "\e968";
+  color: #032b5a;
+}
+.o2-ico-business:before {
+  content: "\e969";
+  color: #032b5a;
+}
+.o2-ico-bycycle:before {
+  content: "\e96a";
+  color: #032b5a;
+}
+.o2-ico-calculator:before {
+  content: "\e96b";
+  color: #032b5a;
+}
+.o2-ico-calendar:before {
+  content: "\e96c";
+  color: #032b5a;
+}
+.o2-ico-call-me:before {
+  content: "\e96d";
+  color: #032b5a;
+}
+.o2-ico-camera:before {
+  content: "\e96e";
+  color: #032b5a;
+}
+.o2-ico-carry-case:before {
+  content: "\e96f";
+  color: #032b5a;
+}
+.o2-ico-case-study:before {
+  content: "\e970";
+  color: #032b5a;
+}
+.o2-ico-change-monthly-bill:before {
+  content: "\e971";
+  color: #032b5a;
+}
+.o2-ico-change-tariff:before {
+  content: "\e972";
+  color: #032b5a;
+}
+.o2-ico-charger:before {
+  content: "\e973";
+  color: #032b5a;
+}
+.o2-ico-chate:before {
+  content: "\e974";
+  color: #032b5a;
+}
+.o2-ico-chevron-down:before {
+  content: "\e975";
+  color: #032b5a;
+}
+.o2-ico-chevron-up:before {
+  content: "\e976";
+  color: #032b5a;
+}
+.o2-ico-click-and-collect:before {
+  content: "\e977";
+  color: #032b5a;
+}
+.o2-ico-clock:before {
+  content: "\e978";
+  color: #032b5a;
+}
+.o2-ico-cloud-computing:before {
+  content: "\e979";
+  color: #032b5a;
+}
+.o2-ico-comment:before {
+  content: "\e97a";
+  color: #032b5a;
+}
+.o2-ico-community-test:before {
+  content: "\e97b";
+  color: #032b5a;
+}
+.o2-ico-computer-games:before {
+  content: "\e97c";
+  color: #032b5a;
+}
+.o2-ico-computer-guard:before {
+  content: "\e97d";
+  color: #032b5a;
+}
+.o2-ico-computer-health:before {
+  content: "\e97e";
+  color: #032b5a;
+}
+.o2-ico-comunications-centre:before {
+  content: "\e97f";
+  color: #032b5a;
+}
+.o2-ico-conference-call:before {
+  content: "\e980";
+  color: #032b5a;
+}
+.o2-ico-connected-network:before {
+  content: "\e981";
+  color: #032b5a;
+}
+.o2-ico-connection-manager:before {
+  content: "\e982";
+  color: #032b5a;
+}
+.o2-ico-contact-us:before {
+  content: "\e983";
+  color: #032b5a;
+}
+.o2-ico-contactless-payment:before {
+  content: "\e984";
+  color: #032b5a;
+}
+.o2-ico-credit-card:before {
+  content: "\e985";
+  color: #032b5a;
+}
+.o2-ico-customer-info:before {
+  content: "\e986";
+  color: #032b5a;
+}
+.o2-ico-data-card:before {
+  content: "\e987";
+  color: #032b5a;
+}
+.o2-ico-data:before {
+  content: "\e988";
+  color: #032b5a;
+}
+.o2-ico-delete:before {
+  content: "\e989";
+  color: #032b5a;
+}
+.o2-ico-delivery:before {
+  content: "\e98a";
+  color: #032b5a;
+}
+.o2-ico-desktop-computer:before {
+  content: "\e98b";
+  color: #032b5a;
+}
+.o2-ico-device-with-tariff:before {
+  content: "\e98c";
+  color: #032b5a;
+}
+.o2-ico-devices-connected:before {
+  content: "\e98d";
+  color: #032b5a;
+}
+.o2-ico-devices-equipment:before {
+  content: "\e98e";
+  color: #032b5a;
+}
+.o2-ico-directory-enquires:before {
+  content: "\e98f";
+  color: #032b5a;
+}
+.o2-ico-discover-more:before {
+  content: "\e990";
+  color: #032b5a;
+}
+.o2-ico-double-unlocked:before {
+  content: "\e991";
+  color: #032b5a;
+}
+.o2-ico-download:before {
+  content: "\e992";
+  color: #032b5a;
+}
+.o2-ico-dual-band:before {
+  content: "\e993";
+  color: #032b5a;
+}
+.o2-ico-dual-numbered-sim:before {
+  content: "\e994";
+  color: #032b5a;
+}
+.o2-ico-email-messaging:before {
+  content: "\e995";
+  color: #032b5a;
+}
+.o2-ico-email:before {
+  content: "\e996";
+  color: #032b5a;
+}
+.o2-ico-exit:before {
+  content: "\e997";
+  color: #032b5a;
+}
+.o2-ico-expert:before {
+  content: "\e998";
+  color: #032b5a;
+}
+.o2-ico-extra-services:before {
+  content: "\e999";
+  color: #032b5a;
+}
+.o2-ico-fair-deal-ribbon:before {
+  content: "\e99a";
+  color: #032b5a;
+}
+.o2-ico-fall-alert:before {
+  content: "\e99b";
+  color: #032b5a;
+}
+.o2-ico-famiy:before {
+  content: "\e99c";
+  color: #032b5a;
+}
+.o2-ico-faqs:before {
+  content: "\e99d";
+  color: #032b5a;
+}
+.o2-ico-first-ticket:before {
+  content: "\e99e";
+  color: #032b5a;
+}
+.o2-ico-fixed-services:before {
+  content: "\e99f";
+  color: #032b5a;
+}
+.o2-ico-free-gift:before {
+  content: "\e9a0";
+  color: #032b5a;
+}
+.o2-ico-friends-abroad:before {
+  content: "\e9a1";
+  color: #032b5a;
+}
+.o2-ico-friends:before {
+  content: "\e9a2";
+  color: #032b5a;
+}
+.o2-ico-frost:before {
+  content: "\e9a3";
+  color: #032b5a;
+}
+.o2-ico-gift-voucher-pounds:before {
+  content: "\e9a4";
+  color: #032b5a;
+}
+.o2-ico-go:before {
+  content: "\e9a5";
+  color: #032b5a;
+}
+.o2-ico-green-leaf:before {
+  content: "\e9a6";
+  color: #032b5a;
+}
+.o2-ico-grrat-applications:before {
+  content: "\e9a7";
+  color: #032b5a;
+}
+.o2-ico-headphones:before {
+  content: "\e9a8";
+  color: #032b5a;
+}
+.o2-ico-help:before {
+  content: "\e9a9";
+  color: #032b5a;
+}
+.o2-ico-history:before {
+  content: "\e9aa";
+  color: #032b5a;
+}
+.o2-ico-home-broadband:before {
+  content: "\e9ab";
+  color: #032b5a;
+}
+.o2-ico-hot-drinks:before {
+  content: "\e9ac";
+  color: #032b5a;
+}
+.o2-ico-idea:before {
+  content: "\e9ad";
+  color: #032b5a;
+}
+.o2-ico-image-printer:before {
+  content: "\e9ae";
+  color: #032b5a;
+}
+.o2-ico-images:before {
+  content: "\e9af";
+  color: #032b5a;
+}
+.o2-ico-insurance:before {
+  content: "\e9b0";
+  color: #032b5a;
+}
+.o2-ico-international-calling-card:before {
+  content: "\e9b1";
+  color: #032b5a;
+}
+.o2-ico-international-travel-service:before {
+  content: "\e9b2";
+  color: #032b5a;
+}
+.o2-ico-international:before {
+  content: "\e9b3";
+  color: #032b5a;
+}
+.o2-ico-internet:before {
+  content: "\e9b4";
+  color: #032b5a;
+}
+.o2-ico-keyboard:before {
+  content: "\e9b5";
+  color: #032b5a;
+}
+.o2-ico-laptop-accessories:before {
+  content: "\e9b6";
+  color: #032b5a;
+}
+.o2-ico-laptop-insurance:before {
+  content: "\e9b7";
+  color: #032b5a;
+}
+.o2-ico-laptop-internet:before {
+  content: "\e9b8";
+  color: #032b5a;
+}
+.o2-ico-laptop:before {
+  content: "\e9b9";
+  color: #032b5a;
+}
+.o2-ico-last-ticket:before {
+  content: "\e9ba";
+  color: #032b5a;
+}
+.o2-ico-load-money:before {
+  content: "\e9bb";
+  color: #032b5a;
+}
+.o2-ico-location:before {
+  content: "\e9bc";
+  color: #032b5a;
+}
+.o2-ico-manage-my-tariff:before {
+  content: "\e9bd";
+  color: #032b5a;
+}
+.o2-ico-message-recieved:before {
+  content: "\e9be";
+  color: #032b5a;
+}
+.o2-ico-message-tag:before {
+  content: "\e9bf";
+  color: #032b5a;
+}
+.o2-ico-mms:before {
+  content: "\e9c0";
+  color: #032b5a;
+}
+.o2-ico-mobile-games:before {
+  content: "\e9c1";
+  color: #032b5a;
+}
+.o2-ico-mobile-guide:before {
+  content: "\e9c2";
+  color: #032b5a;
+}
+.o2-ico-mobile-insurance:before {
+  content: "\e9c3";
+  color: #032b5a;
+}
+.o2-ico-mobile-internet:before {
+  content: "\e9c4";
+  color: #032b5a;
+}
+.o2-ico-mobile-landline:before {
+  content: "\e9c5";
+  color: #032b5a;
+}
+.o2-ico-mobile-payment:before {
+  content: "\e9c6";
+  color: #032b5a;
+}
+.o2-ico-mobile-phone:before {
+  content: "\e9c7";
+  color: #032b5a;
+}
+.o2-ico-mobile-screen-size:before {
+  content: "\e9c8";
+  color: #032b5a;
+}
+.o2-ico-monthly-bill:before {
+  content: "\e9c9";
+  color: #032b5a;
+}
+.o2-ico-mouse:before {
+  content: "\e9ca";
+  color: #032b5a;
+}
+.o2-ico-my-account:before {
+  content: "\e9cb";
+  color: #032b5a;
+}
+.o2-ico-my-cards:before {
+  content: "\e9cc";
+  color: #032b5a;
+}
+.o2-ico-my-settings:before {
+  content: "\e9cd";
+  color: #032b5a;
+}
+.o2-ico-my-walks:before {
+  content: "\e9ce";
+  color: #032b5a;
+}
+.o2-ico-network-coverage:before {
+  content: "\e9cf";
+  color: #032b5a;
+}
+.o2-ico-new-contact:before {
+  content: "\e9d0";
+  color: #032b5a;
+}
+.o2-ico-new:before {
+  content: "\e9d1";
+  color: #032b5a;
+}
+.o2-ico-news:before {
+  content: "\e9d2";
+  color: #032b5a;
+}
+.o2-ico-no-wifi-signal:before {
+  content: "\e9d3";
+  color: #032b5a;
+}
+.o2-ico-not-rated:before {
+  content: "\e9d4";
+  color: #032b5a;
+}
+.o2-ico-radio:before {
+  content: "\e9d5";
+  color: #032b5a;
+}
+.o2-ico-online-games:before {
+  content: "\e9d6";
+  color: #032b5a;
+}
+.o2-ico-organiser:before {
+  content: "\e9d7";
+  color: #032b5a;
+}
+.o2-ico-overnight:before {
+  content: "\e9d8";
+  color: #032b5a;
+}
+.o2-ico-paper:before {
+  content: "\e9d9";
+  color: #032b5a;
+}
+.o2-ico-pay-bill:before {
+  content: "\e9da";
+  color: #032b5a;
+}
+.o2-ico-pay-monthly:before {
+  content: "\e9db";
+  color: #032b5a;
+}
+.o2-ico-pay-n-go:before {
+  content: "\e9dc";
+  color: #032b5a;
+}
+.o2-ico-payment-pounds:before {
+  content: "\e9dd";
+  color: #032b5a;
+}
+.o2-ico-phone-accessories:before {
+  content: "\e9de";
+  color: #032b5a;
+}
+.o2-ico-phone-book:before {
+  content: "\e9df";
+  color: #032b5a;
+}
+.o2-ico-phone-call:before {
+  content: "\e9e0";
+  color: #032b5a;
+}
+.o2-ico-phone-personalisation:before {
+  content: "\e9e1";
+  color: #032b5a;
+}
+.o2-ico-phone-unlocked:before {
+  content: "\e9e2";
+  color: #032b5a;
+}
+.o2-ico-photograph:before {
+  content: "\e9e3";
+  color: #032b5a;
+}
+.o2-ico-power:before {
+  content: "\e9e4";
+  color: #032b5a;
+}
+.o2-ico-premium-test:before {
+  content: "\e9e5";
+  color: #032b5a;
+}
+.o2-ico-printer:before {
+  content: "\e9e6";
+  color: #032b5a;
+}
+.o2-ico-priority-tickets:before {
+  content: "\e9e7";
+  color: #032b5a;
+}
+.o2-ico-puzzle:before {
+  content: "\e9e8";
+  color: #032b5a;
+}
+.o2-ico-rated:before {
+  content: "\e9e9";
+  color: #032b5a;
+}
+.o2-ico-read-more:before {
+  content: "\e9ea";
+  color: #032b5a;
+}
+.o2-ico-recent-calls:before {
+  content: "\e9eb";
+  color: #032b5a;
+}
+.o2-ico-recommendation:before {
+  content: "\e9ec";
+  color: #032b5a;
+}
+.o2-ico-refresh:before {
+  content: "\e9ed";
+  color: #032b5a;
+}
+.o2-ico-register:before {
+  content: "\e9ee";
+  color: #032b5a;
+}
+.o2-ico-retail-shop:before {
+  content: "\e9ef";
+  color: #032b5a;
+}
+.o2-ico-rewards-ribbon:before {
+  content: "\e9f0";
+  color: #032b5a;
+}
+.o2-ico-ringtone:before {
+  content: "\e9f1";
+  color: #032b5a;
+}
+.o2-ico-router:before {
+  content: "\e9f2";
+  color: #032b5a;
+}
+.o2-ico-screen-size-18:before {
+  content: "\e9f3";
+  color: #032b5a;
+}
+.o2-ico-screen-size-24:before {
+  content: "\e9f4";
+  color: #032b5a;
+}
+.o2-ico-screen-size-45:before {
+  content: "\e9f5";
+  color: #032b5a;
+}
+.o2-ico-screen-size-47:before {
+  content: "\e9f6";
+  color: #032b5a;
+}
+.o2-ico-screen-size-4:before {
+  content: "\e9f7";
+  color: #032b5a;
+}
+.o2-ico-screen-size-5:before {
+  content: "\e9f8";
+  color: #032b5a;
+}
+.o2-ico-search-basket:before {
+  content: "\e9f9";
+  color: #032b5a;
+}
+.o2-ico-search-documents:before {
+  content: "\e9fa";
+  color: #032b5a;
+}
+.o2-ico-search:before {
+  content: "\e9fb";
+  color: #032b5a;
+}
+.o2-ico-self-help:before {
+  content: "\e9fc";
+  color: #032b5a;
+}
+.o2-ico-service-message:before {
+  content: "\e9fd";
+  color: #032b5a;
+}
+.o2-ico-service:before {
+  content: "\e9fe";
+  color: #032b5a;
+}
+.o2-ico-settings:before {
+  content: "\e9ff";
+  color: #032b5a;
+}
+.o2-ico-sharing:before {
+  content: "\ea00";
+  color: #032b5a;
+}
+.o2-ico-shop-offer-pounds:before {
+  content: "\ea01";
+  color: #032b5a;
+}
+.o2-ico-shop:before {
+  content: "\ea02";
+  color: #032b5a;
+}
+.o2-ico-sign-here:before {
+  content: "\ea03";
+  color: #032b5a;
+}
+.o2-ico-sim-card:before {
+  content: "\ea04";
+  color: #032b5a;
+}
+.o2-ico-smart-phone:before {
+  content: "\ea05";
+  color: #032b5a;
+}
+.o2-ico-sms-failed:before {
+  content: "\ea06";
+  color: #032b5a;
+}
+.o2-ico-sms-sent:before {
+  content: "\ea07";
+  color: #032b5a;
+}
+.o2-ico-sms:before {
+  content: "\ea08";
+  color: #032b5a;
+}
+.o2-ico-social-calling:before {
+  content: "\ea09";
+  color: #032b5a;
+}
+.o2-ico-special-offer:before {
+  content: "\ea0a";
+  color: #032b5a;
+}
+.o2-ico-special:before {
+  content: "\ea0b";
+  color: #032b5a;
+}
+.o2-ico-speed-dial:before {
+  content: "\ea0c";
+  color: #032b5a;
+}
+.o2-ico-stop-watch:before {
+  content: "\ea0d";
+  color: #032b5a;
+}
+.o2-ico-store-finder:before {
+  content: "\ea0e";
+  color: #032b5a;
+}
+.o2-ico-sub-folder:before {
+  content: "\ea0f";
+  color: #032b5a;
+}
+.o2-ico-submit:before {
+  content: "\ea10";
+  color: #032b5a;
+}
+.o2-ico-surf-tv-stick:before {
+  content: "\ea11";
+  color: #032b5a;
+}
+.o2-ico-tablet-accessories:before {
+  content: "\ea12";
+  color: #032b5a;
+}
+.o2-ico-tablet-insurance:before {
+  content: "\ea13";
+  color: #032b5a;
+}
+.o2-ico-tablet:before {
+  content: "\ea14";
+  color: #032b5a;
+}
+.o2-ico-techincal-consultants:before {
+  content: "\ea15";
+  color: #032b5a;
+}
+.o2-ico-technical-services:before {
+  content: "\ea16";
+  color: #032b5a;
+}
+.o2-ico-technical-support:before {
+  content: "\ea17";
+  color: #032b5a;
+}
+.o2-ico-television:before {
+  content: "\ea18";
+  color: #032b5a;
+}
+.o2-ico-tips-and-tricks:before {
+  content: "\ea19";
+  color: #032b5a;
+}
+.o2-ico-top-up-history:before {
+  content: "\ea1a";
+  color: #032b5a;
+}
+.o2-ico-top-up-phone:before {
+  content: "\ea1b";
+  color: #032b5a;
+}
+.o2-ico-top-up-with-card:before {
+  content: "\ea1c";
+  color: #032b5a;
+}
+.o2-ico-touchscreen:before {
+  content: "\ea1d";
+  color: #032b5a;
+}
+.o2-ico-train:before {
+  content: "\ea1e";
+  color: #032b5a;
+}
+.o2-ico-transaction:before {
+  content: "\ea1f";
+  color: #032b5a;
+}
+.o2-ico-travel-insurance:before {
+  content: "\ea20";
+  color: #032b5a;
+}
+.o2-ico-travel:before {
+  content: "\ea21";
+  color: #032b5a;
+}
+.o2-ico-trophy:before {
+  content: "\ea22";
+  color: #032b5a;
+}
+.o2-ico-unbilled-usage:before {
+  content: "\ea23";
+  color: #032b5a;
+}
+.o2-ico-underground-train:before {
+  content: "\ea24";
+  color: #032b5a;
+}
+.o2-ico-locked:before {
+  content: "\ea25";
+  color: #032b5a;
+}
+.o2-ico-unlocked:before {
+  content: "\ea26";
+  color: #032b5a;
+}
+.o2-ico-upgrade:before {
+  content: "\ea27";
+  color: #032b5a;
+}
+.o2-ico-usb-port:before {
+  content: "\ea28";
+  color: #032b5a;
+}
+.o2-ico-utilities:before {
+  content: "\ea29";
+  color: #032b5a;
+}
+.o2-ico-video-call:before {
+  content: "\ea2a";
+  color: #032b5a;
+}
+.o2-ico-video:before {
+  content: "\ea2b";
+  color: #032b5a;
+}
+.o2-ico-voive-over-ip:before {
+  content: "\ea2c";
+  color: #032b5a;
+}
+.o2-ico-volume-high:before {
+  content: "\ea2d";
+  color: #032b5a;
+}
+.o2-ico-wallet:before {
+  content: "\ea2e";
+  color: #032b5a;
+}
+.o2-ico-weather:before {
+  content: "\ea2f";
+  color: #032b5a;
+}
+.o2-ico-wheelchair:before {
+  content: "\ea30";
+  color: #032b5a;
+}
+.o2-ico-widescreen:before {
+  content: "\ea31";
+  color: #032b5a;
+}
+.o2-ico-wifi-strength-1:before {
+  content: "\ea32";
+  color: #032b5a;
+}
+.o2-ico-wifi-strength-2:before {
+  content: "\ea33";
+  color: #032b5a;
+}
+.o2-ico-wifi-strength-3:before {
+  content: "\ea34";
+  color: #032b5a;
+}
+.o2-ico-wifi-strength-4:before {
+  content: "\ea35";
+  color: #032b5a;
+}
+.o2-ico-wifi-strength-5:before {
+  content: "\ea36";
+  color: #032b5a;
+}
+.o2-ico-wifi:before {
+  content: "\ea37";
+  color: #032b5a;
+}
+.o2-ico-wishlist:before {
+  content: "\ea38";
+  color: #032b5a;
+}
+.o2-ico-withdraw-money:before {
+  content: "\ea39";
+  color: #032b5a;
+}
+.o2-ico-workshop:before {
+  content: "\ea3a";
+  color: #032b5a;
+}
